@@ -1,1 +1,4 @@
 nieuwe functie
+A) Write report.
+B) Submit final version.
+C) Submit expenses.
