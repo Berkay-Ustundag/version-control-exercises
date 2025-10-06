@@ -1,1 +1,3 @@
 nieuwe functie
+A) Write report.
+B) Sumbit report.
